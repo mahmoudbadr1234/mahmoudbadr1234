@@ -27,24 +27,24 @@ I'm continuously learning and improving my skills through hands-on projects and 
 ### 🌸 Iris Dataset — Exploratory Data Analysis
 Exploring flower measurements and comparing species using Python, Pandas, Matplotlib, and Seaborn.
 
-🤖 End-to-End Machine Learning Classification
+## 📂 Featured Projects
+
+### 🤖 End-to-End Machine Learning Classification
 
 A complete Machine Learning project covering exploratory data analysis, data preprocessing, model comparison, and performance evaluation using Python and Scikit-learn.
 
-Key Features:
+**Key Features:**
 
-Exploratory Data Analysis (EDA)
-Data preprocessing and feature scaling
-Logistic Regression, Random Forest, and HistGradientBoosting
-Model evaluation using Accuracy, Precision, Recall, F1-score, and ROC-AUC
-Confusion Matrix and ROC Curve
-Model saving and reproducible training workflow
+* Exploratory Data Analysis (EDA)
+* Data preprocessing and feature scaling
+* Logistic Regression, Random Forest, and HistGradientBoosting
+* Model evaluation using Accuracy, Precision, Recall, F1-score, and ROC-AUC
+* Confusion Matrix and ROC Curve
+* Model saving and reproducible training workflow
 
-Tech Stack: Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+**Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
-🔗 View Project on GitHub
-
-[View Project](https://github.com/mahmoudbadr1234/iris-data-analysis)
+🔗 [View Project on GitHub](https://github.com/mahmoudbadr1234/end-to-end-classification)
 
 ## 📫 Connect With Me
 
