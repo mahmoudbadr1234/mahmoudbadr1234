@@ -22,10 +22,15 @@ I'm continuously learning and improving my skills through hands-on projects and 
 * Jupyter Notebook
 
 
+
 ## 📂 Featured Projects
 
 ### 🌸 Iris Dataset — Exploratory Data Analysis
 Exploring flower measurements and comparing species using Python, Pandas, Matplotlib, and Seaborn.
+
+[View Project](https://github.com/mahmoudbadr1234/iris-data-analysis)
+
+
 
 ## 📂 Featured Projects
 
