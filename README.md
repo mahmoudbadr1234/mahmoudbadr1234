@@ -21,9 +21,13 @@ I'm continuously learning and improving my skills through hands-on projects and 
 * Scikit-learn
 * Jupyter Notebook
 
+
 ## 📂 Featured Projects
 
-*My projects will be added here as I build and document them.*
+### 🌸 Iris Dataset — Exploratory Data Analysis
+Exploring flower measurements and comparing species using Python, Pandas, Matplotlib, and Seaborn.
+
+[View Project](https://github.com/mahmoudbadr1234/iris-data-analysis)
 
 ## 📫 Connect With Me
 
