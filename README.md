@@ -32,7 +32,7 @@ Exploring flower measurements and comparing species using Python, Pandas, Matplo
 
 
 
-## 📂 Featured Projects
+
 
 ### 🤖 End-to-End Machine Learning Classification
 
