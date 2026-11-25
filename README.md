@@ -49,7 +49,7 @@ A complete Machine Learning project covering exploratory data analysis, data pre
 
 **Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
-🔗 [View Project](https://github.com/mahmoudbadr1234/iris-data-analysis)
+🔗 [View Project](https://github.com/mahmoudbadr1234/end-to-end-classification)
 
 
 
