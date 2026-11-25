@@ -55,7 +55,7 @@ A complete Machine Learning project covering exploratory data analysis, data pre
 
 
 
-## 🛍️ Superstore Analysis — End-to-End Data Analytics
+### 🛍️ Superstore Analysis — End-to-End Data Analytics
 
 Comprehensive data analysis project covering data cleaning, exploratory analysis, SQL business analytics, and an interactive Power BI dashboard. Built with Python, Pandas, Matplotlib, Seaborn, SQL, and Power BI.
 
