@@ -28,7 +28,7 @@ I'm continuously learning and improving my skills through hands-on projects and 
 ### 🌸 Iris Dataset — Exploratory Data Analysis
 Exploring flower measurements and comparing species using Python, Pandas, Matplotlib, and Seaborn.
 
-[View Project](https://github.com/mahmoudbadr1234/iris-data-analysis)
+🔗 [View Project](https://github.com/mahmoudbadr1234/iris-data-analysis)
 
 
 
@@ -49,7 +49,7 @@ A complete Machine Learning project covering exploratory data analysis, data pre
 
 **Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
-🔗 [View Project on GitHub]([[https://github.com/mahmoudbadr1234/end-to-end-classification]](https://github.com/mahmoudbadr1234/end-to-end-classification))
+🔗 [View Project](https://github.com/mahmoudbadr1234/iris-data-analysis)
 
 
 
