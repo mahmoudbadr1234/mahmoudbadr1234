@@ -51,6 +51,28 @@ A complete Machine Learning project covering exploratory data analysis, data pre
 
 🔗 [View Project on GitHub](https://github.com/mahmoudbadr1234/end-to-end-classification)
 
+
+
+
+
+## 🛍️ Superstore Analysis — End-to-End Data Analytics
+
+Comprehensive data analysis project covering data cleaning, exploratory analysis, SQL business analytics, and an interactive Power BI dashboard. Built with Python, Pandas, Matplotlib, Seaborn, SQL, and Power BI.
+
+**Key Features:**
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA) with 10+ visualizations
+- SQL queries for business analytics and RFM segmentation
+- Views optimized for Power BI integration
+- Interactive Power BI dashboard with dynamic filters
+
+**Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · SQL · Power BI · Jupyter
+
+🔗 [View Project on GitHub](https://github.com/YOUR_USERNAME/Superstore-Analysis)
+
+
+
+
 ## 📫 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/mahmoud-badr-39b43b308/)
