@@ -68,7 +68,7 @@ Comprehensive data analysis project covering data cleaning, exploratory analysis
 
 **Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · SQL · Power BI · Jupyter
 
-🔗 [View Project on GitHub](Superstore-Analysis)
+🔗 [View Project on GitHub](https://github.com/mahmoudbadr1234/Superstore-Analysis)
 
 
 
